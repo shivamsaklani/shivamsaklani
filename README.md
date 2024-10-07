@@ -2,7 +2,6 @@
 <h2>👋 Hello, I'm Shivam Saklani!</h2>
 
 <p>
-    🎓 <strong>BTech CSE Student @ Uttaranchal University, Dehradun</strong><br>
     💻 <strong>Flutter Developer | Android Enthusiast | AI Explorer</strong><br>
     🚀 Passionate about building mobile apps and exploring the potential of Artificial Intelligence to solve real-world problems.
 </p>
@@ -10,6 +9,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+    <h3>💬 Let's Connect!</h3>
+<p>
+    I'm always open to collaborating on new and exciting projects, discussing innovative ideas, or networking with like-minded tech enthusiasts. <br>
+    Feel free to reach out if you'd like to connect, collaborate, or just chat about technology and future trends!
+</p>
+
+<p>
+    📧 <strong>Email:</strong> shivamsaklanitech@gmail.com <br>
+    🌐 <strong>Portfolio:</strong> <a href="https://shivam-portfolio.example.com](https://shivamsaklani.github.io/profilewebsite/">Website</a> <br>
+    🐦 <strong>X:</strong> <a href="https://twitter.com/shivam-twitter](https://x.com/Saklani1_">X handle</a> <br>
+    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shivam-linkedin](https://www.linkedin.com/in/shivam-saklani-378061199/">LinkedIn</a>
+</p>
   <!-- Add your social media or portfolio links here -->
 </p>
 
@@ -54,16 +65,5 @@
     <li>Sharpening skills in <strong>Data Structures & Algorithms</strong> to improve problem-solving and code efficiency.</li>
 </ul>
 
-<h3>💬 Let's Connect!</h3>
-<p>
-    I'm always open to collaborating on new and exciting projects, discussing innovative ideas, or networking with like-minded tech enthusiasts. <br>
-    Feel free to reach out if you'd like to connect, collaborate, or just chat about technology and future trends!
-</p>
 
-<p>
-    📧 <strong>Email:</strong> shivamsaklani@example.com <br>
-    🌐 <strong>Portfolio:</strong> <a href="https://shivam-portfolio.example.com">shivam-portfolio.example.com</a> <br>
-    🐦 <strong>Twitter:</strong> <a href="https://twitter.com/shivam-twitter">twitter.com/shivam-twitter</a> <br>
-    💼 <strong>LinkedIn:</strong> <a href="https://linkedin.com/in/shivam-linkedin">linkedin.com/in/shivam-linkedin</a>
-</p>
 
