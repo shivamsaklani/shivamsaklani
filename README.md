@@ -18,7 +18,8 @@
     🔹 Built using <strong>MERN Stack</strong>, it provides a seamless experience for managing personal content.
 </p>
 <p>
-    🔗 <a href="https://github.com/shivamsaklani/socialbrain"><strong>GitHub Repository</strong></a>
+    🔗 <a href="https://github.com/shivamsaklani/socialbrain"><strong>GitHub Repository</strong></a> |
+    🌍 <a href="https://socialbrain.shivamsaklani.digital/"><strong>Live Project</strong></a>
 </p>
 
 <h3>💼 Other Projects</h3>
@@ -29,13 +30,6 @@
     <li><strong>Attendance Management System:</strong> A role-based system for tracking student attendance. 
         <a href="https://github.com/shivamsaklani/Attendance-Management-System-AMS-">GitHub</a>
     </li>
-</ul>
-
-<h3>📚 Learning & Exploring</h3>
-<ul>
-    <li>Enhancing skills in <strong>MERN Stack</strong> for full-stack web development.</li>
-    <li>Diving deeper into <strong>Artificial Intelligence</strong> and automation.</li>
-    <li>Improving <strong>Data Structures & Algorithms</strong> for optimized coding solutions.</li>
 </ul>
 
 <h3>💬 Let's Connect!</h3>
