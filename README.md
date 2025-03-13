@@ -1,7 +1,7 @@
 <h2>👋 Hello, I'm Shivam Saklani!</h2>
 
 <p>
-    💻 <strong>MERN Stack Developer | Android Enthusiast | AI Explorer</strong><br>
+    💻 <strong>MERN Stack Developer </strong><br>
     🚀 Passionate about building web & mobile applications and exploring AI for real-world solutions.
 </p>
 
