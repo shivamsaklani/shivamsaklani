@@ -7,7 +7,7 @@
 
 <h3>🛠 Tech Stack</h3>
 <ul>
-    <li><strong>Languages:</strong> C, Java, Python, JavaScript</li>
+    <li><strong>Languages:</strong> C, Java, Typescript, JavaScript</li>
     <li><strong>Web Development:</strong> React.js, Node.js, Express.js, MongoDB</li>
     <li><strong>Other Tools:</strong> MySQL, Firebase, Git, Linux</li>
 </ul>
