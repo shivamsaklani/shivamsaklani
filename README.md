@@ -14,7 +14,7 @@
 
 <h3>🌟 Featured Project: SocialBrain</h3>
 <p>
-    🔹 <strong>SocialBrain</strong> is a platform where users can <strong>save their favorite posts and videos</strong> to access later.<br>
+    🔹 <a href="https://socialbrain.shivamsaklani.digital/"><strong>SocialBrain</strong></a> is a platform where users can <strong>save their favorite posts and videos</strong> to access later.<br>
     🔹 Built using <strong>MERN Stack</strong>, it provides a seamless experience for managing personal content.
 </p>
 <p>
