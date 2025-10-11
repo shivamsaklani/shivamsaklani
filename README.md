@@ -40,7 +40,7 @@
 
 <p>
     📧 <strong>Email:</strong> shivamsaklanitech@gmail.com <br>
-    🌐 <strong>Portfolio:</strong> <a href="https://shivamsaklani.github.io/profilewebsite/](https://portfolio.shivamsaklani.digital/">Website</a> <br>
+    🌐 <strong>Portfolio:</strong> <a href="https://portfolio.shivamsaklani.digital/">Website</a> <br>
     🐦 <strong>X:</strong> <a href="https://x.com/Saklani1_">X handle</a> <br>
     💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-saklani-378061199/">LinkedIn</a>
 </p>
