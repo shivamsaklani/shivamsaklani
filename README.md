@@ -1,7 +1,7 @@
 <h2>👋 Hi, I'm Shivam Saklani</h2>
 
 <p>
-  💻 <strong>MERN Stack Developer</strong><br>
+  💻 <strong>Software Developer</strong><br>
   🚀 I build scalable web applications and explore AI-driven solutions for real-world problems.
 </p>
 <hr/>
