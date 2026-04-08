@@ -7,19 +7,7 @@
 <hr/>
 
 <h3>🌟 Featured Project: SocialBrain</h3>
-<p>
-  <strong>SocialBrain</strong> is a personal content management platform that allows users to save and organize their favorite posts and videos for later access.
-</p>
-<ul>
-  <li>🔹 Built using the <strong>MERN Stack</strong></li>
-  <li>🔹 Clean and intuitive UI</li>
-  <li>🔹 Focused on productivity and content organization</li>
-</ul>
 
-<p>
-  🔗 <a href="https://github.com/shivamsaklani/socialbrain"><strong>GitHub Repository</strong></a> |
-  🌍 <a href="https://solana-dapp-phi.vercel.app/"><strong>Live Demo</strong></a>
-</p>
 
 <h4>🟢 BetterUptime</h4>
 <p>
@@ -73,13 +61,11 @@
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=flat-square&logo=vercel)
 <hr/>
 
-<h3>📊 GitHub Activity & Commits</h3>
+<!-- <h3>📊 GitHub Activity & Commits</h3>
 
 <p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamsaklani&theme=github-compact&hide_border=true" />
-</p>
-
-<hr/>
+</p> -->
 
 <h3>💼 Other Projects</h3>
 <ul>
@@ -101,7 +87,7 @@
 <h3>💬 Let’s Connect</h3>
 <p>
   📧 <strong>Email:</strong> shivamsaklanitech@gmail.com <br>
-  🌐 <strong>Portfolio:</strong> <a href="https://portfolio.shivamsaklani.digital/">portfolio.shivamsaklani.digital</a> <br>
+  🌐 <strong>Portfolio:</strong> <a href="https://portfolio-nu-one-9noegk0bpm.vercel.app/">Portfolio</a> <br>
   🐦 <strong>X:</strong> <a href="https://x.com/Saklani1_">@Saklani1_</a> <br>
   💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/shivam-saklani-378061199/">Shivam Saklani</a>
 </p>
